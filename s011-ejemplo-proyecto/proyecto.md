@@ -64,4 +64,4 @@ Nuestro equipo en InStudio está compuesto por expertos con experiencia en tecno
 | RF.1.1 | Crear cuenta. | Yo, como usuario, quiero poder generar mi cuenta con mi correo de gmail y recibir una notificación de validación para acelerar mi proceso de acceso a la plataforma. |
 | RF.1.2 | Editar información personal. | Yo, como usuario, quiero poder modificar toda mi información personal para actualizar algún valor determinado. |
 | RF.1.3 | Iniciar sesión | Yo, como usuario, quiero poder autenticar el inicio de sesión utilizando un código que envié a mi teléfono para aumentar la seguridad de mi cuenta. |
-
+| RF.1.4 | Registrar Servicios | Yo, como usuario, quiero poder autenticar el inicio de sesión utilizando un código que envié a mi teléfono para aumentar la seguridad de mi cuenta. |
