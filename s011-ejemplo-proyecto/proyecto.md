@@ -54,3 +54,14 @@ Nuestro equipo en InStudio está compuesto por expertos con experiencia en tecno
 | Inversionistas y accionistas | Conformance Checker | Invierten en el proyecto y esperan retorno de inversión | Verificar que la plataforma cumpla con los estándares de calidad y la hoja de ruta del proyecto |
 | Reguladores y organismos de protección de datos | Representante de Sistema Externo | Aseguran el cumplimiento con regulaciones de privacidad y seguridad | Definir los requisitos y asegurar el cumplimiento con las leyes de protección de datos |
 | Colaboradores | Ingeniero de sistemas | Responsable del diseño de sistemas o componentes | Asegurar el entorno provisto por el sistema |
+
+**2. Requerimientos del Sistema**
+
+**2.1.1 Requisitos funcionales**
+
+| ID | Nombre | Historia de Usuario |
+| --- | --- | --- |
+| RF.1.1 | Crear cuenta. | Yo, como usuario, quiero poder generar mi cuenta con mi correo de gmail y recibir una notificación de validación para acelerar mi proceso de acceso a la plataforma. |
+| RF.1.2 | Editar información personal. | Yo, como usuario, quiero poder modificar toda mi información personal para actualizar algún valor determinado. |
+| RF.1.3 | Iniciar sesión | Yo, como usuario, quiero poder autenticar el inicio de sesión utilizando un código que envié a mi teléfono para aumentar la seguridad de mi cuenta. |
+
