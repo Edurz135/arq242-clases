@@ -29,62 +29,28 @@ Tras la pandemia, el sector de la belleza en Perú no se ha podido recuperar y a
 
 **Canvas de Modelo de Negocio**
 
-***Propuesta de valor***:
+- Ruta de enlace al Canvas de InStudio: 
+  https://www.canva.com/design/DAGPE7GwV5E/_zWjxflfOcCKQ94MVStm_g/view?utm_content=DAGPE7GwV5E&utm_campaign=designshare&utm_medium=link&utm_source=editor
 
-****Para los Salones de Belleza:****
-  - **Visibilidad y Acceso a Nuevos Clientes:** InStudio ofrece a los salones pequeños y medianos la oportunidad de destacarse en un mercado competitivo, permitiéndoles llegar a un público más amplio y diverso a través de una   plataforma digital.
-  - **Gestión Centralizada:** Los salones pueden gestionar su perfil, actualizar sus servicios, precios, y promociones en tiempo real, lo que facilita la adaptación a las necesidades del mercado.
-  - **Reducción de Costos de Marketing:** Al utilizar InStudio, los salones pueden reducir los costos asociados con la publicidad tradicional, aprovechando la exposición que la plataforma les brinda.
-  - **Fidelización de Clientes:** Mediante un sistema de reseñas y valoraciones, los salones pueden obtener feedback directo de sus clientes, mejorando la calidad del servicio y aumentando la lealtad de sus usuarios.
-  - **Ver Ordenes de sus Clientes:** Los spas podran ver las ordenes realizadas por sus clientes, gestionar sus horarios para citas
-  - **Analítica** : Dashboarding de métricas clave del negocio 
-
-****Para los Clientes:****
-
-- **Comodidad y Facilidad de Uso:** InStudio permite a los usuarios explorar y comparar múltiples opciones de salones de belleza desde la comodidad de sus hogares, con información detallada y actualizada sobre servicios, precios, y horarios.
-- **Transparencia y Confianza:** Los usuarios pueden tomar decisiones informadas basadas en las reseñas y valoraciones de otros clientes, asegurándose de recibir un servicio de calidad.
-- **Ofertas y Promociones Exclusivas:** Los clientes pueden acceder a ofertas especiales y descuentos exclusivos al reservar a través de la plataforma, lo que les permite ahorrar dinero mientras disfrutan de servicios de belleza.
-- **Reservar cita online mediante módulo de pago**: Reservar en el spa deseado el servicio que deseen --> Ver disponibilidad de citas
-
-***Segmento de Clientes***:
-
-InStudio tiene dos segmentos principales de clientes:
-
-- Salones de Belleza (PYMES)
-- Clientes Usuarios Finales
-
-A continuación, se detallan las características y necesidades de cada segmento:
-- **Salones de Belleza (PYMES)** : Este segmento incluye a pequeños y medianos salones de belleza que buscan aumentar su visibilidad, atraer más clientes y optimizar la gestión de sus servicios. (Salones Nuevos o Emergentes, Salones Establecidos con Baja Presencia Digital)
-- **Clientes Usuarios Finales** : Personas que buscan acceder a servicios de belleza de manera conveniente, comparando opciones según sus necesidades y preferencias. (Adultos Jóvenes (18-35 años), Profesionales Ocupados)
-
-***Canales de Distribución:***
-- **Plataforma Web** : Acceso a la plataforma a través de navegadores web. 
-- **Redes sociales** : Atraer clientes potenciales a través de redes sociales como Facebook e Instagram.
-
-***Relaciones con clientes:***
-- **Soporte** : Los clientes podrán contactar con el equipo de soporte a través de correo electrónico para resolver cualquier duda o problema que tengan.
-
-***Fuentes de Ingresos:***
-- **Comisiones por reservas** : Por cada reserva o transacción realizada por la plataforma, se obtendrá una comisión.
-- **Suscripciones de Salones** : Se ofrece una suscripción mensual o anual para salones de belleza que deseen funcionalidades extras como análisis avanzados de su visibilidad y la captación generada por el aplicativo.
-
-***Recursos Clave***
-- **Equipo de desarrollo** : Equipo de desarrollo para la creación de la aplicación.
-- **Infraestructura en la nube**: Servicios en la nube para almacenar y procesar datos.
-- **Integración de Pago** : Integración con servicios para crear transacciones de pago.
-
-***Actividades Clave***
-- **Desarrollo de la aplicación** : Desarrollar y asegurar el funcionamiento correcto de la aplicación.
-- **Afiliación con salones** : Atraer y contactar salones de belleza para la aplicación.
-- **Seguridad** : Asegurar la protección de datos y transacciones generadas por la plataforma.
-
-***Socios Clave:***
- - **Proveedores de Servicios en la Nube** : Servicios de AWS o Firebase para almacenamiento, procesamiento y gestión de datos.
- - **Salones de belleza** : Utilizarán el aplicativo.
-
-***Estructura de Costos:***
- - **Desarrollo y Mantenimiento** : Costos asociados con el desarrollo de software.
- - **Integración de Servicios** : Costos por el uso de servicios para generar las transacciones y servicios en la nube como AWS o Firebase.
+![alt text](<Canvas de Modelo de Negocio Tabla para estrategia planeación negocio pastel moderno.png>)
 
 **1.3. Estructura del Equipo**
 
+Nuestro equipo en InStudio está compuesto por expertos con experiencia en tecnología, belleza y gestión empresarial:
+
+- CEO: Lidera la visión estratégica y el crecimiento general de InStudio.
+- CTO: Supervisa el desarrollo y mantenimiento de la plataforma digital.
+- COO: Gestiona las operaciones diarias y establece alianzas estratégicas con salones de belleza.
+- Equipo de Desarrollo: Ingenieros y diseñadores dedicados a la creación y mejora continua de la plataforma.
+- Equipo de Atención al Cliente: Proporciona soporte en línea y asistencia a salones y clientes.
+- Equipo de Marketing: Encargado de las estrategias de promoción y publicidad para atraer y retener usuarios.
+
+**1.4. Listado de Stakeholders**
+
+| **Stakeholder** | **Rol** | **Responsabilidad** | **Interés en la arquitectura** |
+| --- | --- | --- | --- |
+| Salones de belleza | Cliente | Usan la plataforma para gestionar servicios y reservas | Asegurar que la plataforma sea fácil de usar y eficaz en la gestión de citas y clientes |
+| Clientes (usuarios finales) | Cliente | Utilizan la plataforma para buscar y reservar servicios de belleza | Garantizar una experiencia de usuario fluida y accesible |
+| Inversionistas y accionistas | Conformance Checker | Invierten en el proyecto y esperan retorno de inversión | Verificar que la plataforma cumpla con los estándares de calidad y la hoja de ruta del proyecto |
+| Reguladores y organismos de protección de datos | Representante de Sistema Externo | Aseguran el cumplimiento con regulaciones de privacidad y seguridad | Definir los requisitos y asegurar el cumplimiento con las leyes de protección de datos |
+| Colaboradores | Ingeniero de sistemas | Responsable del diseño de sistemas o componentes | Asegurar el entorno provisto por el sistema |
